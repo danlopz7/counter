@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Contador</string>
+    <string name="str_increment">INCREASE</string>
+    <string name="str_reset">RESET</string>
+    <string name="btn_decrease">DECREASE</string>
+    <string name="counter">Counter:</string>
+</resources>
